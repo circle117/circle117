@@ -7,13 +7,13 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharmCore              6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/02/2022 01:03:52 UTC
+ Last Updated on 02/02/2022 01:02:39 UTC
 <!--END_SECTION:waka-->
