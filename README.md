@@ -7,13 +7,14 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   28 mins             ████████████████████████░   97.9% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  29 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/03/2022 01:13:26 UTC
+ Last Updated on 03/03/2022 01:14:50 UTC
 <!--END_SECTION:waka-->
