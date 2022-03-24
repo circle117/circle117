@@ -1,6 +1,8 @@
 ### Hi there 👋
 * Bug producer
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%204%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -17,5 +19,5 @@ PyCharm                  20 hrs 52 mins      ███████████�
 ```
 
 
- Last Updated on 24/03/2022 01:20:20 UTC
+ Last Updated on 24/03/2022 09:16:53 UTC
 <!--END_SECTION:waka-->
