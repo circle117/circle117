@@ -23,16 +23,17 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     27 mins             ████████████████████████░   99.08% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 27 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      27 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/07/2022 02:03:07 UTC
+ Last Updated on 13/07/2022 01:55:35 UTC
 <!--END_SECTION:waka-->
