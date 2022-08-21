@@ -1,7 +1,7 @@
 ### Hi there 👋
 * Bug producer
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
 
@@ -35,5 +35,5 @@ Mac                      1 hr                ███████████�
 ```
 
 
- Last Updated on 20/08/2022 02:00:50 UTC
+ Last Updated on 21/08/2022 01:56:47 UTC
 <!--END_SECTION:waka-->
