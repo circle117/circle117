@@ -1,7 +1,7 @@
 ### Hi there 👋
 * Bug producer
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
 
@@ -23,17 +23,17 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     50 mins             █████████████████████████   99.79% 
-Roff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+Java                     1 hr 40 mins        █████████████████████████   99.89% 
+Roff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-IntelliJ                 50 mins             █████████████████████████   100.0%
+IntelliJ                 1 hr 41 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.0%
+Mac                      1 hr 41 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/09/2022 02:22:22 UTC
+ Last Updated on 08/09/2022 02:12:01 UTC
 <!--END_SECTION:waka-->
