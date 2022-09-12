@@ -3,19 +3,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2057%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2022
+> 🏆 62 Contributions in the Year 2022
  > 
-> 📦 1.7 kB Used in GitHub's Storage 
+> 📦 2.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 1 Private Repository 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ Mac                      1 hr 9 mins         ███████████�
 ```
 
 
- Last Updated on 11/09/2022 02:21:57 UTC
+ Last Updated on 12/09/2022 02:24:59 UTC
 <!--END_SECTION:waka-->
