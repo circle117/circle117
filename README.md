@@ -1,21 +1,21 @@
 ### Hi there 👋
 * Bug producer
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2057%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 71 Contributions in the Year 2022
  > 
-> 📦 22.8 kB Used in GitHub's Storage 
+> 📦 23.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -39,5 +39,5 @@ Mac                      11 hrs 34 mins      ███████████�
 ```
 
 
- Last Updated on 22/09/2022 02:12:44 UTC
+ Last Updated on 23/09/2022 02:23:26 UTC
 <!--END_SECTION:waka-->
