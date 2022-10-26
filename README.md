@@ -1,13 +1,13 @@
 ### Hi there 👋
 * Bug producer
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-794%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 109 Contributions in the Year 2022
+> 🏆 110 Contributions in the Year 2022
  > 
 > 📦 28.3 kB Used in GitHub's Storage 
  > 
@@ -23,18 +23,19 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     13 hrs 26 mins      ██████████████████░░░░░░░   73.27% 
-Vue.js                   4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52% 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
+Java                     12 hrs 15 mins      ███████████████░░░░░░░░░░   63.03% 
+Vue.js                   7 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.15% 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-IntelliJ                 18 hrs 20 mins      █████████████████████████   100.0%
+IntelliJ                 19 hrs 26 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      18 hrs 20 mins      █████████████████████████   100.0%
+Mac                      19 hrs 26 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 25/10/2022 02:26:33 UTC
+ Last Updated on 26/10/2022 02:03:05 UTC
 <!--END_SECTION:waka-->
