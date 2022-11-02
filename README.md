@@ -1,21 +1,21 @@
 ### Hi there 👋
 * Bug producer
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 120 Contributions in the Year 2022
+> 🏆 127 Contributions in the Year 2022
  > 
-> 📦 28.4 kB Used in GitHub's Storage 
+> 📦 33.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 2 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -23,20 +23,20 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     9 hrs 40 mins       ███████████████░░░░░░░░░░   61.69% 
-Vue.js                   4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.34% 
-XML                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.69% 
-JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-Properties               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+Java                     8 hrs 56 mins       █████████████████░░░░░░░░   71.15% 
+Vue.js                   1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
+XML                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.37% 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
+Properties               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
 
 🔥 Editors: 
-IntelliJ                 15 hrs 40 mins      █████████████████████████   100.0%
+IntelliJ                 12 hrs 34 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      15 hrs 40 mins      █████████████████████████   100.0%
+Mac                      12 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/11/2022 02:23:07 UTC
+ Last Updated on 02/11/2022 02:08:11 UTC
 <!--END_SECTION:waka-->
