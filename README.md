@@ -7,6 +7,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 139 Contributions in the Year 2022
+ > 
 > 📦 37.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -32,5 +34,5 @@ Mac                      0 secs              ███████████�
 ```
 
 
- Last Updated on 30/11/2022 01:37:59 UTC
+ Last Updated on 01/12/2022 01:48:44 UTC
 <!--END_SECTION:waka-->
