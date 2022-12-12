@@ -1,7 +1,7 @@
 ### Hi there 👋
 * Bug producer
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34%20Thousand%20lines%20of%20code-blue)
 
@@ -70,5 +70,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2022 01:37:23 UTC
+ Last Updated on 12/12/2022 01:26:21 UTC
 <!--END_SECTION:waka-->
