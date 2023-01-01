@@ -1,13 +1,13 @@
 ### Hi there 👋
 * Bug producer
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 151 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 37.3 kB Used in GitHub's Storage 
  > 
@@ -46,10 +46,10 @@ Sunday       21 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 30 mins        █████████████████████████   100.0%
+Java                     1 hr 41 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-IntelliJ                 1 hr 30 mins        █████████████████████████   100.0%
+IntelliJ                 1 hr 41 mins        █████████████████████████   100.0%
 
 ```
 
@@ -66,5 +66,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 01:20:06 UTC
+ Last Updated on 01/01/2023 01:40:33 UTC
 <!--END_SECTION:waka-->
