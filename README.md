@@ -1,7 +1,7 @@
 ### Hi there 👋
 * Bug producer
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.1%20thousand%20lines%20of%20code-blue)
 
@@ -44,11 +44,13 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 5 mins        █████████████████████████   99.95 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Java                     4 hrs 52 mins       ████████████████████████░   95.71 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-IntelliJ                 2 hrs 5 mins        █████████████████████████   100.00 % 
+IntelliJ                 5 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -64,5 +66,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2023 01:36:45 UTC
+ Last Updated on 09/03/2023 01:37:25 UTC
 <!--END_SECTION:waka-->
