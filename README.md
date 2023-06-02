@@ -44,10 +44,12 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 12 mins       █████████████████████████   99.86 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +65,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2023 01:55:14 UTC
+ Last Updated on 02/06/2023 01:39:13 UTC
 <!--END_SECTION:waka-->
