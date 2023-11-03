@@ -44,10 +44,10 @@ Sunday                   100 commits         ███████░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +63,5 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2023 00:55:22 UTC
+ Last Updated on 03/11/2023 00:55:56 UTC
 <!--END_SECTION:waka-->
