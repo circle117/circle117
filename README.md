@@ -1,7 +1,7 @@
 ### Hi there 👋
 * Bug producer
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-954%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-954%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81.1%20thousand%20lines%20of%20code-blue)
 
@@ -44,10 +44,13 @@ Sunday                   100 commits         ███████░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Java                     20 hrs 36 mins      █████████████████████████   100.00 % 
+Java                     21 hrs 8 mins       █████████████████████████   99.58 % 
+Jupyter                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ                 20 hrs 36 mins      █████████████████████████   100.00 % 
+IntelliJ                 21 hrs 8 mins       █████████████████████████   99.59 % 
+PyCharm                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +66,5 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2023 01:00:22 UTC
+ Last Updated on 13/11/2023 00:58:17 UTC
 <!--END_SECTION:waka-->
