@@ -3,7 +3,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.7%20thousand%20lines%20of%20code-blue)
 
@@ -46,10 +46,13 @@ Sunday                   102 commits         ███████░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Java                     3 hrs 46 mins       █████████████████████████   100.00 % 
+Java                     3 hrs 46 mins       ███████████████░░░░░░░░░░   60.53 % 
+Go                       2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.36 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-IntelliJ                 3 hrs 46 mins       █████████████████████████   100.00 % 
+IntelliJ                 3 hrs 46 mins       ███████████████░░░░░░░░░░   60.53 % 
+GoLand                   2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.47 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +68,5 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2024 06:05:52 UTC
+ Last Updated on 22/01/2024 21:26:32 UTC
 <!--END_SECTION:waka-->
