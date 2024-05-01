@@ -3,13 +3,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C255%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C255%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 50.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 109 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,13 +46,12 @@ Sunday                   111 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Java                     3 hrs 6 mins        ████████████████░░░░░░░░░   62.54 % 
-Python                   1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.40 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Java                     3 hrs 6 mins        ████████████████████░░░░░   81.93 % 
+Python                   41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
 
 🔥 Editors: 
-Intellijidea             3 hrs 6 mins        ████████████████░░░░░░░░░   62.54 % 
-PyCharm                  1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.46 % 
+Intellijidea             3 hrs 6 mins        ████████████████████░░░░░   81.93 % 
+PyCharm                  41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
 ```
 
 **I Mostly Code in Python** 
@@ -66,5 +67,5 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2024 01:09:20 UTC
+ Last Updated on 01/05/2024 01:14:24 UTC
 <!--END_SECTION:waka-->
