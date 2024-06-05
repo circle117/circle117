@@ -3,15 +3,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C301%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-191.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 51.3 kB Used in GitHub's Storage 
- > 
-> 🏆 127 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,12 +44,11 @@ Sunday                   114 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Java                     11 hrs 25 mins      ████████████████████████░   94.04 % 
-XML                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Java                     10 hrs 58 mins      ████████████████████████░   94.18 % 
+XML                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-Intellijidea             12 hrs 8 mins       █████████████████████████   100.00 % 
+Intellijidea             11 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,5 +64,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2024 01:14:22 UTC
+ Last Updated on 05/06/2024 01:13:50 UTC
 <!--END_SECTION:waka-->
