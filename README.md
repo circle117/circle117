@@ -3,13 +3,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C318%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C324%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-244.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 56.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 155 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,14 +46,14 @@ Sunday                   124 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-JavaScript               19 hrs 32 mins      ███████████████████████░░   93.67 % 
-CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+JavaScript               19 hrs 38 mins      ███████████████████████░░   93.69 % 
+CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,5 +69,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2024 01:15:29 UTC
+ Last Updated on 19/06/2024 01:15:38 UTC
 <!--END_SECTION:waka-->
