@@ -3,8 +3,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2037%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -66,5 +64,5 @@ R                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 01:45:48 UTC
+ Last Updated on 16/10/2025 01:44:36 UTC
 <!--END_SECTION:waka-->
