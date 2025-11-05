@@ -3,6 +3,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C350%20hrs%2045%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-253.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -44,10 +46,10 @@ Sunday                   133 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   3 hrs 30 mins       █████████████████████████   100.00 % 
+Python                   3 hrs 17 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 30 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +65,5 @@ R                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 01:49:01 UTC
+ Last Updated on 05/11/2025 01:50:17 UTC
 <!--END_SECTION:waka-->
