@@ -46,10 +46,10 @@ Sunday                   135 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      57 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +65,5 @@ HTML                     3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 12/01/2026 02:06:33 UTC
+ Last Updated on 13/01/2026 01:58:17 UTC
 <!--END_SECTION:waka-->
