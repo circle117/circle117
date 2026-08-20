@@ -63,15 +63,15 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-R                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Python                   10 repos            █████████░░░░░░░░░░░░░░░░   37.04 % 
+R                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 19/08/2026 01:24:28 UTC
+ Last Updated on 20/08/2026 01:23:53 UTC
 <!--END_SECTION:waka-->
